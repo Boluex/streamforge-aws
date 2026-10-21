@@ -1,0 +1,1 @@
+The active Terraform roots are now ../environments/dev, ../environments/staging and ../environments/prod. The original local terraform.tfvars is retained here and ignored by Git. Review and copy relevant values into the chosen environment. Do not run Terraform from this legacy directory.

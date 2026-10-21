@@ -1,0 +1,6 @@
+environment = "staging"
+use_local_emulator = true
+ec2_endpoint = "http://localhost:5003"
+aws_endpoint = "http://localhost:4566"
+backend_image = "boluex/stream-backend:latest"
+frontend_image = "boluex/stream-frontend:latest"
